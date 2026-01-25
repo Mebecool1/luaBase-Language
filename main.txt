@@ -1,0 +1,44 @@
+--This-is-a-comment
+
+--to-print
+
+print("Printing tut");
+
+--to-name-var
+
+x = 10;
+
+--print-only-supports-string-or-only-var
+
+print("Printing a var!");
+print(x);
+
+--loops
+
+passed = 1;
+
+if passed == 1:
+    print("you pass");
+elif passed == 2:
+    print("you pass with great marks!");
+else:
+    print("you fail");
+
+--for-and-while-exists-same-way-as-python
+
+--usage-for-compiler-and-lVM-is:
+
+usageforcompiler = "luabasec code.txt simple.txt";
+usageforlVM = "luabase simple.txt";
+
+--you-can-swap-code-txt-and-simple-txt-with-any-file-as-long-as-it-already-exists
+
+--user-input
+
+print("alright give me some input...");
+inp = input();
+print(inp);
+--try-running-this-code!
+
+
+
