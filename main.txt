@@ -68,6 +68,17 @@ function main()
 end
 main() #just call main()
 
-#alright those were the fundamental rules of the language byeee
+#Syntax changes in v2.3.0:
+- Function declaration changed:
+`function myfunc(){}` instead of `function myfunc() end`
+
+- C library logic changed:
+Add libraries by changing `self.headers=` in the compiler.
+Change the `subprocess.run("clang", ...)` to link your libraries
+No need for writing `extern` now, just call the function like:
+`CreateWindow(800,600,"Title")`
+
+#alrighty byeee
+
 
 
