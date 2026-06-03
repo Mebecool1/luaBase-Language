@@ -10,6 +10,8 @@ The precompiled binary of xenc (the xenon compiler) can be found in the main tre
 
 You can use ./install.sh, ./remove.sh, and ./build.sh for convenience.
 
+XENON IS IN BETA STAGE EXPECT BUGS AND MAJOR CHANGES.
+
 
 
 
